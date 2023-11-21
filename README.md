@@ -63,8 +63,8 @@
 
 
 
-### Name: 
-### Register Number:
+### Name: KESAV DEEPAK SRIDHARAN
+### Register Number: 23002011
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
