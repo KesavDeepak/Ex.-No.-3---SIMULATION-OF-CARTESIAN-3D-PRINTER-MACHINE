@@ -51,7 +51,7 @@
 ## OUTPUT
 ![WhatsApp Image 2023-11-21 at 9 25 03 AM (1)](https://github.com/KesavDeepak/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139336019/a53f26fd-e9d8-469e-93ca-c7d8da28dd32)
 
-![WhatsApp Image 2023-11-21 at 9 25 03 AM](https://github.com/KesavDeepak/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139336019/631ba343-9384-4e4a-a8d8-d4f458cf10cc)
+![WhatsApp Image 2023-11-21 at 9 25 03 AM](https://github.com/KesavDeepak/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139336019/631ba343-9384-4e4a-a8d8-d4f458cf10cc) 
 
 ![WhatsApp Image 2023-11-21 at 9 25 02 AM](https://github.com/KesavDeepak/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/139336019/9c2dd4a8-8d81-4bbb-a143-4bb7bc0da8b2)
 
